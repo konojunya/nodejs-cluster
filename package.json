@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-cluster",
+  "version": "1.0.0",
+  "description": "nodejsでclusterを使ってexpressのアプリケーションを複数のプロセスで立ち上げるサンプル",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konojunya/nodejs-cluster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konojunya/nodejs-cluster/issues"
+  },
+  "homepage": "https://github.com/konojunya/nodejs-cluster#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
